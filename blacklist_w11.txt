@@ -26,8 +26,8 @@ Microsoft.MicrosoftStickyNotes
 Microsoft.PowerAutomateDesktop
 Microsoft.ScreenSketch
 Microsoft.SecHealthUI
-Microsoft.SkypeApp
-Microsoft.StorePurchaseApp
+#Microsoft.SkypeApp
+#Microsoft.StorePurchaseApp
 Microsoft.Todos
 Microsoft.UI.Xaml.2.4
 Microsoft.VCLibs.140.00
