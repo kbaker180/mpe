@@ -1,6 +1,7 @@
 Built-in apps listed below that are not prefixed with a  will be considered eligible for removal
 Prefix item with # to mark it for removal
 
+#clipchamp.clipchamp
 #Microsoft.549981C3F5F10
 #Microsoft.BingNews
 Microsoft.BingWeather
@@ -9,16 +10,24 @@ Microsoft.DesktopAppInstaller
 #Microsoft.GetHelp
 #Microsoft.Getstarted
 Microsoft.HEIFImageExtension
+#Microsfot.Messaging
+#Microsoft.Microsoft3DViewer
 Microsoft.MicrosoftEdge.Stable
 #Microsoft.MicrosoftOfficeHub
 #Microsoft.MicrosoftSolitaireCollection
-#Microsoft.MicrosoftStickyNotes
-Microsoft.Paint
+Microsoft.MicrosoftStickyNotes
+#Microsoft.MixedReality.Portal
+#Microsoft.News
+#Microsoft.Office.Lens
+#Microsoft.Office.OneNote
+#Microsoft.Office.Todo.List
+#Microsoft.OneConnect
 #Microsoft.People
 Microsoft.PowerAutomateDesktop
 Microsoft.ScreenSketch
 Microsoft.SecHealthUI
-#Microsoft.StorePurchaseApp
+Microsoft.SkypeApp
+Microsoft.StorePurchaseApp
 Microsoft.Todos
 Microsoft.UI.Xaml.2.4
 Microsoft.VCLibs.140.00
@@ -37,6 +46,7 @@ Microsoft.WindowsNotepad
 Microsoft.WindowsStore
 Microsoft.WindowsTerminal
 #Microsoft.Xbox.TCUI
+#Microsoft.XboxApp
 #Microsoft.XboxGameOverlay
 #Microsoft.XboxGamingOverlay
 #Microsoft.XboxIdentityProvider
@@ -46,4 +56,3 @@ Microsoft.WindowsTerminal
 #Microsoft.ZuneVideo
 #MicrosoftTeams
 MicrosoftWindows.Client.WebExperience
-clipchamp.clipchamp
