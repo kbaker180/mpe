@@ -3,7 +3,7 @@ Prefix item with # to mark it for removal
 
 #Microsoft.549981C3F5F10
 #Microsoft.BingNews
-#Microsoft.BingWeather
+Microsoft.BingWeather
 Microsoft.DesktopAppInstaller
 #Microsoft.GamingApp
 #Microsoft.GetHelp
@@ -25,7 +25,7 @@ Microsoft.VCLibs.140.00
 Microsoft.VP9VideoExtensions
 Microsoft.WebMediaExtensions
 Microsoft.WebpImageExtension
-Microsoft.Windows.Photos
+#Microsoft.Windows.Photos
 Microsoft.WindowsAlarms
 Microsoft.WindowsCalculator
 Microsoft.WindowsCamera
